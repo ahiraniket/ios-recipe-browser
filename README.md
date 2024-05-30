@@ -98,3 +98,8 @@ This project demonstrates the ability to integrate with a third-party API using 
 - [TheMealDB API](https://themealdb.com/api.php)
 - [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/)
 - [URLSession Documentation](https://developer.apple.com/documentation/foundation/urlsession)
+
+<br>
+
+## Note
+If you encounter any issues or have any questions, please feel free to reach out at `aaahir@asu.edu`.
