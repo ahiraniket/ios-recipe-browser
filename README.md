@@ -1,4 +1,4 @@
-# Fetch - iOS Engineer - Assessment
+# Recipe Browser
 
 ## Project Overview
 
@@ -20,7 +20,7 @@ This app allows users to browse dessert recipes fetched from the MealDB API. Use
 **Installation Steps:**
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/ahiraniket/fetch-ios.git
+    git clone https://github.com/ahiraniket/ios-recipe-browser.git
     ```
 
 2. **Open the Xcode project:**
